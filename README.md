@@ -1,14 +1,6 @@
 # vue-interview
 总结面试中经典的vue相关题目，分析最佳回答策略，期待您的`star`，您的支持是我坚持的最大的动力
 
-## 面试群
-关注`村长学前端`，回复“加群”，加入面试群一起卷~
-<img src="https://gitee.com/57code/picgo/raw/master/image-20220210162539024.png" alt="i4" style="zoom:50%;" />
-
-## 视频讲解
-关注村长B站账号观看视频讲解
-[【Vue面试专题】金三银四必备！56道经典Vue面试题详解](https://www.bilibili.com/video/BV11i4y1Q7H2/)
-
 ## 目录
 1. [v-if和v-for哪个优先级更高？](public/01-vif-vfor/README.md)
 2. [你知道key的作用吗？](public/02-key/README.md)
